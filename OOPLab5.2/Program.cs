@@ -366,7 +366,7 @@ namespace OOPLab5._1
 
             Day.PatientsCount = Console.ReadLine();
 
-            Console.WriteLine("Enter time of starting work");
+            Console.WriteLine("Enter time of starting work ");
 
             Day.StartHour = Console.ReadLine();
 
